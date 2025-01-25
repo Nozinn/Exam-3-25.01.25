@@ -558,6 +558,11 @@ video {
   margin: auto;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .mb-\[10px\] {
   margin-bottom: 10px;
 }
@@ -715,6 +720,22 @@ video {
 }
 
 @media (min-width: 1024px) {
+  .lg\:ml-\[\] {
+    margin-left: ;
+  }
+
+  .lg\:ml-\[200px\] {
+    margin-left: 200px;
+  }
+
+  .lg\:ml-\[100px\] {
+    margin-left: 100px;
+  }
+
+  .lg\:ml-\[150px\] {
+    margin-left: 150px;
+  }
+
   .lg\:flex {
     display: flex;
   }
