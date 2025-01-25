@@ -731,6 +731,10 @@ video {
     width: 55%;
   }
 
+  .lg\:w-\[30\%\] {
+    width: 30%;
+  }
+
   .lg\:text-\[45px\] {
     font-size: 45px;
   }
